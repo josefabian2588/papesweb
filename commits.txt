@@ -1,3 +1,21 @@
+commit e41b7805dad432fe72750aadd490fe2be77f6c43
+Author: Jose Fabian Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 20:49:47 2015 -0600
+
+    Se cambio las imagenes de las tiendas, ISSUE #2
+
+commit a2c30a59649379016bccd560ea79a2c726a24cec
+Author: Jose Fabian Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 20:23:32 2015 -0600
+
+    Agregar 5 imagenes que cambian automaticamente , ademas text shadow en los titulos de la seccion de INICIO , ISSUE #1
+
+commit f1c3d42ef009e0d5c1c8e35f7f230911dd8a7bf4
+Author: Jose Fabian Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 18:25:47 2015 -0600
+
+    Correción de acentos , ISSUE #3
+
 commit db5c77abd0f10ee2da5b86692fbf8013a605a5c7
 Author: Jose Fabian Araya <josefabian2588@gmail.com>
 Date:   Thu Jan 1 17:49:49 2015 -0600

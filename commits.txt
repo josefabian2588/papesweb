@@ -1,0 +1,17 @@
+commit db5c77abd0f10ee2da5b86692fbf8013a605a5c7
+Author: Jose Fabian Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 17:49:49 2015 -0600
+
+    Eliminacion de archivos basura del primer commit
+
+commit 6df0f59a35a9334961f22332ab47c072c417f9dc
+Author: Jose Fabian Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 17:47:50 2015 -0600
+
+    Primer Commit pagina web base ,(La desarrolle anteriormente)
+
+commit 2ab25c70a09a62d9690401d2aeb1cf8aea6dc98d
+Author: Fabián Araya <josefabian2588@gmail.com>
+Date:   Thu Jan 1 16:18:02 2015 -0600
+
+    Initial commit

@@ -1,0 +1,50 @@
+@media (min-width:1200px){}
+
+@media (min-width:992px) and (max-width:1199px){
+undefined
+undefined}
+
+@media (min-width:768px) and (max-width:991px){#header-landing .awesome-slogan h2{font-size:40px}
+#header-landing .awesome-slogan h4{font-size:20px}
+undefined}
+
+@media (max-width:767px){body{font-size:12px}
+.panel span{text-shadow:none; font-size:26px; line-height:30px}
+undefined
+.panel span .inner{margin-top:10px; font-size:16px; line-height:28px}
+
+.red-panel-bottom .lead{font-size:150%; line-height:28px; text-align:center}
+
+.panel .lead{font-size:120%}
+
+#header-landing #logo{position:relative; display:block; text-align:center}
+#header-landing #nav-menu .menus{float:none; font-size:14px; padding:5px 0; text-align:center}
+#header-landing #nav-menu .menus ul li a span{display:none}
+#header-landing #nav-menu .menus ul li a i{display:inline-block}
+#header-landing .awesome-slogan{text-align:center; padding-top:17%}
+#header-landing .awesome-slogan h2{font-size:40px}
+#header-landing .awesome-slogan h4{font-size:20px}
+.section-page-landing .inner-section{padding:125px 0}
+undefined.pricing-table-landing .header{padding:15px 0 50px}
+.pricing-table-landing .header h3{font-size:20px}
+undefined
+undefined}
+
+@media (max-width:640px){#header-landing .awesome-slogan{text-align:center; padding-top:17%}
+#header-landing .awesome-slogan h2{padding:10px 5px; font-size:35px; margin-bottom:0}
+#header-landing .awesome-slogan h4{padding:5px; font-size:20px; margin:0}
+#header-landing .awesome-slogan p{font-size:14px; margin:5px 0; padding:5px}
+#header-landing .awesome-slogan .social-icons{padding:10px}
+}
+
+@media (max-width:480px){#header-landing{padding:20% 0}
+#header-landing #nav-menu .menus ul li a{padding:10px 10px}
+#header-landing .awesome-slogan{text-align:center; padding-top:25%}
+#header-landing .awesome-slogan h2{padding:10px 5px; font-size:28px; margin-bottom:0}
+#header-landing .awesome-slogan .social-icons{padding:0px 10px}
+#header-landing .awesome-slogan .social-icons img{width:25px; margin:2px}
+undefined
+}
+
+@media (max-width:360px){#header-landing .awesome-slogan{text-align:center; padding-top:30%}
+undefined}

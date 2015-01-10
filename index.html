@@ -42,16 +42,16 @@
 	
 	
 
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-	<![endif]-->
+	 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+              <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+              <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
 	</head>
 	
-
-
 
 	<!-- BODY WITH DATA STYPE FOR SCROLLSPY -->
 	<body class="tooltips" id="top" data-spy="scroll" data-target="#myScrollspy">
@@ -586,16 +586,19 @@
 
 
 <h2 class="text-center">Formulario de contacto</h2>
-					<form role="form" class="contact-form" id="ContactForm" method="post">
+
+   <hr>
+
+					<form role="form" class="contact-form"  name="contact" id="ContactForm" method="post">
 						<div class="row">
 							<div class="col-sm-6">
-							  <div class="form-group">
-								<input type="text" name="YourName" class="form-control" placeholder="Escriba su nombre">
+							  <div class="form-group" >
+								<input type="text" name="name" class="form-control" placeholder="Escriba su nombre">
 							  </div>
 							</div>
 							<div class="col-sm-6">
 							  <div class="form-group">
-								<input type="email" name="YourEmail" class="form-control" placeholder="Escriba su correo">
+								<input type="email" name="email" class="form-control" placeholder="Escriba su correo">
 							  </div>
 							</div>
 							<!--
@@ -607,7 +610,7 @@
 						-->
 						</div>
 					  <div class="form-group">
-						<textarea class="form-control" name="YourMessage" style="height: 200px" placeholder="Escriba su mensaje"></textarea>
+						<textarea class="form-control" name="message" style="height: 200px" placeholder="Escriba su mensaje"></textarea>
 					  </div>
 						<div class="row">
 							<div class="col-sm-5">
@@ -627,12 +630,16 @@
 					</form>
 
 
+
 					
 					
 
 				</div><!-- /.container -->
 			</div><!-- /.inner-section -->
 		</div>
+
+	
+
 	</div><!-- /.section-page-landing -->
 		<!-- 
 		===========================================
@@ -686,6 +693,7 @@
 		<script src="assets/third/backstretch/jquery.backstretch.min.js"></script>
 		<script src="assets/js/main.min.js"></script>
 		<script src="assets/js/plugins.min.js"></script>
+		
 		<script>
 
 
@@ -703,7 +711,9 @@
 				duration: 6000
 			});
 		</script>
-		<script src="assets/js/teplok-one-page.min.js"></script>
+
+
+		<script src="assets/js/teplok-one-page.js"></script>
 
 	</body>
 </html>

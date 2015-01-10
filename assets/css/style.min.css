@@ -323,3 +323,5 @@ footer .footer{padding:20px 0 50px; margin:40px 0 0px; text-align:center; font-s
 .red-panel-bottom{background:#4c4c4c url(../../images/image001.jpg) 0% 0% fixed repeat-y; -webkit-box-shadow:0 1px 3px rgba(0,0,0,0.055); -moz-box-shadow:0 1px 3px rgba(0,0,0,0.055); box-shadow:0 1px 3px rgba(0,0,0,0.055); background-size:100% auto}
 
 #map{display:block; height:250px; width:100%; min-width:100%; max-width:1350px; margin-left:auto; margin-right:auto; margin-top:20px; -webkit-box-shadow:0px 0px 30px rgba(50,50,50,0.52) inset; -moz-box-shadow: 0px 0px 30px rgba(50,50,50,0.52)inset; box-shadow: 0px 0px 30px rgba(50,50,50,0.52)inset; border-top:4px solid #2fe2bf}
+
+

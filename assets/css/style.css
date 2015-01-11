@@ -1185,3 +1185,6 @@ margin-top:20px;
 box-shadow:         0px 0px 30px rgba(50, 50, 50, 0.52)inset;
 border-top: 4px solid #2fe2bf;
 }
+
+#header-landing #logo h1 i {
+color: #18ac90;

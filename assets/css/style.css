@@ -1194,3 +1194,9 @@ margin-top: 5px;
 margin-bottom: 10px;
 color: #cc0000;
 }
+
+#logonav{
+	height: 100%;
+	margin-top: -3px;
+	margin-right: 5px;
+}

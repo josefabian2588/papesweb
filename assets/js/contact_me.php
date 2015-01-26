@@ -14,7 +14,7 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'josefabian2588@gmail.com'; // put your email
+$to = 'info@papesa.co.cr'; // put your email
 $email_subject = "Mensaje de contacto Web Papesa:  $name";
 $email_body = "Ha recibido un mensaje. \n\n".
 				  " Detalles:\n \nName: $name \n ".

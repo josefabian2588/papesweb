@@ -4,6 +4,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	line-height: 170%;
+
 }
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	font-family: 'Roboto', sans-serif;
@@ -1195,8 +1196,46 @@ margin-bottom: 10px;
 color: #cc0000;
 }
 
-#logonav{
-	height: 100%;
-	margin-top: -3px;
-	margin-right: 5px;
+
+.modal {
+    overflow-y: auto;
+}
+
+.modal-open {
+    overflow: auto;
+}
+
+.modal-header {
+ min-height: 16.43px; 
+padding: 15px;
+border-bottom: 0px solid #e5e5e5;
+}
+
+.modal-footer {
+padding: 15px;
+text-align: right;
+border-top: 0px solid #e5e5e5;
+}
+
+.modal-title .panel span {
+text-shadow: none;
+font-size: 40px;
+font-weight: 300;
+width: 100%;
+display: inline-block;
+line-height: 52px;
+}
+
+.modal-title .panel span .inner {
+text-shadow: none;
+font-size: 20px;
+font-weight: 300;
+width: 100%;
+display: inline-block;
+line-height: 52px;
+}
+
+
+.modal-body .table-responsive {
+font-size: 12px;
 }

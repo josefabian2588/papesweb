@@ -327,8 +327,8 @@ a.btn.btn-default.btn-teplok:focus{
 .the-box-landing h4{font-weight: 300;}
 .the-box-landing p{font-size: 15px;}
 .the-box-landing img.small-icon{
-	margin: 25px 0;
-	width: auto;
+	margin: 15px 0;
+	width: 160px;
 }
 .btn.btn-purchase{margin-top: 10px;}
 
@@ -1238,4 +1238,11 @@ line-height: 52px;
 
 .modal-body .table-responsive {
 font-size: 12px;
+}
+
+#textoservicioPequeno {
+	font-size: 14px;
+}
+#extension {
+	padding-bottom: 8px;
 }

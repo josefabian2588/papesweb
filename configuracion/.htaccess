@@ -4,7 +4,7 @@
  
   # CSS
  
-    ExpiresByType text/css                              "access plus 1 month"
+    ExpiresByType text/css                              "access plus 1 week"
  
   # Intercambio de Data
  
@@ -39,8 +39,8 @@
  
     ExpiresByType audio/ogg                             "access plus 1 month"
     ExpiresByType image/gif                             "access plus 1 month"
-    ExpiresByType image/jpeg                            "access plus 1 month"
-    ExpiresByType image/png                             "access plus 1 month"
+    ExpiresByType image/jpeg                            "access plus 1 week"
+    ExpiresByType image/png                             "access plus 1 week"
     ExpiresByType video/mp4                             "access plus 1 month"
     ExpiresByType video/ogg                             "access plus 1 month"
      ExpiresByType video/jpg                             "access plus 1 month"

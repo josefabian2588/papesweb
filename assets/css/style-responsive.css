@@ -1,5 +1,5 @@
 /*Large Desktop*/
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) { }
 
 /*Desktop*/
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -164,6 +164,10 @@
 		padding: 0;
 	}
 	.blog-landing .blog-column .img-wrap{height: auto;}
+
+	#mapcuadro{display: none;}
+
+	
 }
 
 @media (max-width: 640px){
